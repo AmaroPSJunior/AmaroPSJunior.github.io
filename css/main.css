@@ -20,6 +20,13 @@ body #banner {
     background-size: auto 100%;
 }
 
+.title{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30vh;
+}
+
 .container-radiobuttom {
     width: 90%;
 }
