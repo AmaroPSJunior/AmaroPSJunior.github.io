@@ -10,11 +10,12 @@ body #banner {
 }
 
 #banner {
-    background: url("../img/banner-principal.jpg");
+    /*background: url("../img/banner-principal.jpg");
+    */
     background-repeat: no-repeat;
     background-position: center;
     margin-bottom: auto;
-    padding-bottom: 40%;
+    padding-bottom: 25%;
     background-size: cover;
     background-size: auto 100%;
 }
