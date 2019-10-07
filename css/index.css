@@ -1,19 +1,19 @@
 
 
-<<<<<<< HEAD
-
-.content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.content .button-collapse {
-    position: relative;
-    top: 45vh;
-=======
 .side-nav .collapsible-body .waves-effect{
     width: 100%; 
     padding-left: 2rem;
->>>>>>> e1a2821b4927478ebabad2ad12e422d7bc9cf6c6
+    border-bottom: 1px solid rgba(204, 204, 204, 0.25);;
+}
+
+nav {
+    background-color: rgb(85, 189, 180);
+}
+
+nav i{
+    padding-left: 1rem;
+}
+
+.side-nav .collapsible-header {
+    border-bottom: 1px solid rgba(204, 204, 204, 0.5);;
 }
