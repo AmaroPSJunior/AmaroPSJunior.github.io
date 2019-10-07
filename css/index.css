@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 
 .content {
     display: flex;
@@ -10,4 +11,9 @@
 .content .button-collapse {
     position: relative;
     top: 45vh;
+=======
+.side-nav .collapsible-body .waves-effect{
+    width: 100%; 
+    padding-left: 2rem;
+>>>>>>> e1a2821b4927478ebabad2ad12e422d7bc9cf6c6
 }
